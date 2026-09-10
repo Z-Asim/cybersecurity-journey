@@ -1,41 +1,30 @@
-# Day 1 — July 21, 2026
+# Day 1 — July 15, 2026
 
 ## What I Learned
 
-Today I started documenting my cybersecurity learning journey.
+Started my cybersecurity learning journey through the Google Cybersecurity Certificate.
 
-I began working through the Google Cybersecurity Certificate to build a strong foundation in cybersecurity concepts.
+I worked through the Introduction to Cybersecurity section and learned about the fundamentals of cybersecurity and the role of cybersecurity professionals.
 
-I also explored hands-on cybersecurity learning through TryHackMe.
+## Assessment
 
-## Practical Work
+Completed the "Test your knowledge: Introduction to cybersecurity" assessment.
 
-Completed these TryHackMe rooms:
-
-- Careers in Cyber
-- Offensive Security Intro
-- Defensive Security Intro
-
-These helped me get an initial understanding of cybersecurity careers, offensive security, and defensive security.
+- Score: 100%
+- Passing requirement: 75%
 
 ## Key Takeaways
 
-- Cybersecurity has multiple career paths and areas of specialization.
-- Offensive security focuses on identifying and understanding weaknesses.
-- Defensive security focuses on protecting systems, detecting threats, and responding to attacks.
-- Practical labs are important for turning theoretical knowledge into real skills.
+- Cybersecurity is about protecting systems, networks, devices, and data from threats.
+- Cybersecurity professionals have different roles and responsibilities.
+- Building strong fundamentals is important before moving into advanced security topics.
 
-## What I Want to Improve
+## Progress
 
-I want to build both:
+This was the beginning of my structured cybersecurity learning journey.
 
-- Strong cybersecurity fundamentals
-- Practical hands-on skills
-
-My long-term goal is to become capable of understanding, identifying, and defending against cyberattacks ethically.
+My plan was to progress through the certificate consistently while developing practical skills alongside the theory.
 
 ## Next Step
 
-Continue the Google Cybersecurity Certificate and regularly practice hands-on cybersecurity labs.
-
-I will also start maintaining daily logs on GitHub to track my progress.
+Continue with the next section of the Google Cybersecurity Certificate and gradually add hands-on practice.
