@@ -1,35 +1,40 @@
 # Day 7 — July 22, 2026
 
-## Learning
-Today I focused on building and maintaining my cybersecurity learning portfolio using GitHub.
+## Focus
+GitHub and Cybersecurity Portfolio
 
-I organized my cybersecurity journey into daily logs so that my progress, learning activities, practical work, and achievements can be documented consistently.
+## What I Worked On
 
-## GitHub Progress
-- Created/organized the cybersecurity learning journey repository.
-- Created a `daily-logs` directory for tracking daily progress.
-- Added daily learning records using Markdown.
-- Practiced making commits with meaningful commit messages.
-- Learned how GitHub can be used to document technical growth and build a professional portfolio.
+Today I focused on organizing my cybersecurity learning journey on GitHub.
+
+I learned how to structure a repository using folders, Markdown files, commits, and portfolio documents. I created a dedicated portfolio section to keep my professional cybersecurity materials organized.
+
+## Portfolio
+
+As part of building my cybersecurity portfolio, I added my professional statement to the repository.
+
+[View my Professional Statement](../portfolio/Aasim_Professional_Statement.pdf)
+
+## Repository Structure
+
+I organized my repository into different sections:
+
+- `daily-logs/` — Documents my day-by-day cybersecurity learning progress.
+- `portfolio/` — Contains professional portfolio documents.
+- `labs/` — For hands-on cybersecurity labs and exercises.
+- `projects/` — For cybersecurity projects I build.
+- `skills/` — For tracking the technical skills I develop.
 
 ## Cybersecurity Connection
-GitHub is useful for cybersecurity professionals because it can be used to:
-- Document security projects and labs.
-- Maintain scripts and automation tools.
-- Track changes using Git.
-- Demonstrate practical skills to recruiters.
-- Build a public technical portfolio.
 
-## Practical Progress
-I started building a structured cybersecurity portfolio instead of keeping my learning progress only in personal notes.
-
-Each daily log will serve as evidence of my learning journey and practical development.
+GitHub can help cybersecurity professionals document their technical growth, maintain projects and scripts, organize security research and lab work, and demonstrate practical skills through a professional portfolio.
 
 ## Reflection
-Today I understood that cybersecurity learning is not only about completing courses. Documenting what I learn and building a visible portfolio is also important for demonstrating practical growth.
+
+Today I understood that documenting my cybersecurity journey is important because it allows me to track my progress and create evidence of the skills I develop over time.
+
+This repository will continue to grow as I complete more labs, projects, and cybersecurity learning activities.
 
 ## Status
-Day 7 completed.
 
-**Focus:** GitHub + Cybersecurity Portfolio  
-**Repository:** cybersecurity-journey
+**Day 7 completed.**
