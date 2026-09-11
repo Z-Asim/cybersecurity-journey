@@ -1,44 +1,31 @@
 # Day 6 — July 21, 2026
 
-## Learning
+## Practical Cybersecurity Training
 
-### Google Cybersecurity Certificate
-- Started **Module 4: Cybersecurity tools and programming languages**
-- Completed the **Important cybersecurity tools** section.
-- Learned about common cybersecurity tools and their purposes.
-- Studied tools used to protect business operations.
-- Explored different cybersecurity tools and how they are used.
-- Completed the practice assignment: **Test your knowledge: Important cybersecurity tools**.
+### TryHackMe
+- Continued hands-on cybersecurity training on TryHackMe.
+- Completed the planned rooms/tasks for the day.
+- Practiced working with cybersecurity concepts in an interactive lab environment.
 
-### Assessment
+## Google Cybersecurity Certificate
 
-- Assignment: Important cybersecurity tools
-- Score: **100%**
-- Passing score: **75%**
-- Result: **Passed**
-- Submission time: **July 21, 2026 — 4:58 PM IST**
+- Continued Module 4: Cybersecurity tools and programming languages.
+- Completed the "Important cybersecurity tools" section.
+- Completed the related practice assignment with 100%.
 
-## Key Concepts Learned
+## Key Learning
 
-- Cybersecurity professionals use different tools for monitoring, detection, protection, and investigation.
-- Security tools have different purposes and are selected based on the security problem being addressed.
-- Organizations use security tools to protect systems, networks, data, and business operations.
-- Understanding what a security tool does is important before using it in a security investigation.
-
-## Practical Progress
-
-Started Module 4 of the Google Cybersecurity Certificate and successfully completed the first section on important cybersecurity tools with a score of 100%.
+- Applied cybersecurity concepts through hands-on practice.
+- Explored practical security tools and their purposes.
+- Strengthened the connection between cybersecurity theory and practical lab work.
 
 ## Reflection
 
-Today I began learning about the tools used by cybersecurity professionals. I learned that cybersecurity is not based on a single tool; different tools are used for different security tasks such as monitoring, protection, detection, and investigation.
-
-This gave me a better understanding of the practical side of cybersecurity and how security professionals use technical tools to protect organizations.
+Today was an important step toward moving from cybersecurity theory into hands-on practice. I worked through TryHackMe labs while continuing the Google Cybersecurity Certificate, giving me exposure to both structured learning and practical security exercises.
 
 ## Status
 
-- [x] Started Module 4
-- [x] Completed Important cybersecurity tools section
-- [x] Passed practice assignment
-- [x] Scored 100%
-- [x] Updated cybersecurity learning log
+- [x] Completed TryHackMe work
+- [x] Continued Google Cybersecurity Certificate
+- [x] Completed Important cybersecurity tools
+- [x] Passed the related assessment
