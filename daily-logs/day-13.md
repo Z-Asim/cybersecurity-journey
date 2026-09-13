@@ -1,39 +1,45 @@
-# Day 13 — Course 2: Security Frameworks and Controls
+# Day 13 — July 30, 2026
 
-## Date
-August 1, 2026
+## 📚 Learning
 
-## Learning
-- Completed Course 2, Module 2: Security frameworks and controls.
-- Reviewed security frameworks and security controls.
-- Completed the Module 2 challenge with a score of 80%.
-- Continued practical understanding of security controls, compliance, and risk management.
+### Google Cybersecurity Certificate — Course 2: Play It Safe: Manage Security Risks
 
-## Hands-on Practice
-- Recreated the Botium Toys security audit as a portfolio artifact.
-- Assessed security controls and identified gaps involving:
-  - Least privilege
-  - Separation of duties
-  - Password policies
-  - Encryption
-  - Backups
-  - Disaster recovery
-  - Intrusion detection
-  - Legacy-system maintenance
-- Reviewed compliance considerations including PCI DSS, GDPR, and SOC.
+Today I continued working through Course 2 and completed **Module 2: Security frameworks and controls**.
 
-## Portfolio Work
-- Added the recreated Botium Toys Security Audit to the portfolio.
-- Documented security findings and recommendations based on the course scenario.
+### Topics Covered
+- Security frameworks and controls
+- The CIA Triad
+  - Confidentiality
+  - Integrity
+  - Availability
+- NIST Cybersecurity Framework
+- OWASP security principles
+- Security audits
+- Applying security frameworks and controls to organizational security
 
-## Evidence
-- Module 2 challenge: 80%
-- Portfolio Activity: Conduct a security audit: 100%
+## 🧪 Hands-on Practice
 
-## Reflection
-Today I completed Module 2 and worked on turning the security-audit concepts into a practical portfolio artifact. The audit helped me understand how security controls are evaluated in a real organizational scenario and how gaps can create security and compliance risks.
+### Security Audit
 
-## Progress
-- Course 2: Module 2 completed
-- Security audit portfolio artifact recreated
-- Continued building my cybersecurity portfolio and documenting practical learning
+I completed the **Portfolio Activity: Conduct a security audit**.
+
+The activity involved applying security-audit concepts to evaluate an organization's security practices and identify areas that require improvement.
+
+**Result:** 100% — Passed
+
+## 📝 Reflection
+
+Today helped me understand how cybersecurity frameworks and security controls can be used in a practical security assessment.
+
+The security audit activity was especially useful because it connected the concepts from the module to a real-world security assessment process. I also reinforced my understanding of the CIA Triad, NIST frameworks, and OWASP security principles.
+
+## 📈 Progress
+
+- Completed **Module 2 — Security frameworks and controls**
+- Completed the **security audit portfolio activity**
+- Strengthened my understanding of security frameworks, controls, and auditing
+- Continued building my cybersecurity portfolio and documenting my learning journey
+
+## 🎯 Next Step
+
+Continue with **Module 3 — Introduction to cybersecurity tools** and begin learning about security tools, logs, and SIEM concepts.
